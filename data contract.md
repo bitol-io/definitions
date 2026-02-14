@@ -1,0 +1,5 @@
+A **data contract** is an agreement between data producers and data consumers on the structure, format, semantics, quality, and service-level expectations of the exchanged data. It contains a detailed schema creating a link between business (logical representation of the data) and technology (its physical implementation). A data contract focuses on a single dataset, describing its tables and columns, data quality rules and their parameters, pricing, stakeholders, roles, service-level agreements (SLAs), and custom properties. Most data contracts are implemented using a YAML file, which is both human- and computer-readable and language-agnostic, making them enforceable and actionable by tools and services. A data contract is designed to be enhanced iteratively — data engineers can start with basic elements like fundamentals and schema, then over time add more information like data quality and SLAs.
+
+**Standard**: [Open Data Contract Standard (ODCS)](https://github.com/bitol-io/open-data-contract-standard) by [Bitol](https://bitol.io/), a Linux Foundation project.
+
+**Source**: [Data contract - Wikipedia](https://en.wikipedia.org/wiki/Data_contract)
